@@ -2,7 +2,7 @@
 
 <p>Adroit-Agency is a travel agency website. Here I displayed all the common feature that a travel agency have.</p>
 
-<p><b>Note: </b> Fully Responsive</p>
+<p><b>Note: </b>Fully Responsive</p>
 
 <h3>💻 Technology uses:</h3>
 
